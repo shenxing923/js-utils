@@ -1,0 +1,22 @@
+{
+  "name": "js-utils",
+  "version": "1.0.0",
+  "description": "collection of javascript function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenxing923/js-utils.git"
+  },
+  "author": "shenxing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shenxing923/js-utils/issues"
+  },
+  "homepage": "https://github.com/shenxing923/js-utils#readme",
+  "dependencies": {
+    "spark-md5": "^3.0.0"
+  }
+}
