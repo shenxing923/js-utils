@@ -1,1 +1,3 @@
 # js-utils
+> collect some useful javascript function
+> ...
